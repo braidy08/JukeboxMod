@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0.0",
+	"FriendlyName": "JukeboxMod",
+	"Description": "",
+	"Category": "Modding",
+	"CreatedBy": "braidy08",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "PDML",
+			"Enabled": true,
+			"SemVersion": "1.0.0"
+		}
+	],
+	"EnabledByDefault": true,
+	"SemVersion": "2.0.0",
+	"RequiredOnRemote": false
+}
